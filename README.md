@@ -1,2 +1,1 @@
-# SignLanguageDetection
-Author-Chitransh Srivastava
+
