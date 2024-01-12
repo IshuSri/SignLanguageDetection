@@ -1,2 +1,2 @@
-# SignLanguageDetectionUsingML
-SignLanguageDetectionUsingML
+# SignLanguageDetection
+Author-Chitransh Srivastava
